@@ -132,7 +132,7 @@ display: none;
     justify-content: center;
 }
 .toggle-container label {
-    background-image: linear-gradient(to right, hsl(236, 72%, 79%) hsl(237, 63%, 64%));
+    background-image: linear-gradient(to right, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
     border-radius: 50px;
     cursor: pointer;
     display: inline-block;
